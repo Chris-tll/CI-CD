@@ -28,3 +28,6 @@ jobs:
       - name: Build App 🌽
         run: dotnet build -c Release --no-restore WebApi-Weather/WebApi-Weather.sln
 
+    #Publish
+      - name: Publish App
+        run: dotnet publish -c Release -o ./out WebApi-Weather/WebApi-Weather.sln
