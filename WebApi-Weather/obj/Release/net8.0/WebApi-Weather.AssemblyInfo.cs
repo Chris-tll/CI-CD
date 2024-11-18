@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApi-Weather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09125d77b3044116e7c656529d33202ef6e43ed3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8efe7af34b5830dedd74abc86e151c794922626")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApi-Weather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApi-Weather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
