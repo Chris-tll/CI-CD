@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pzH5twjPPNE=",
+  "dgSpecHash": "aurqw5p6YhQ=",
   "success": true,
-  "projectFilePath": "C:\\Git_repo\\WebApi-Weather\\WebApi-Weather\\WebApi-Weather.csproj",
+  "projectFilePath": "C:\\Git_repo\\CI-CD\\WebApi-Weather\\WebApi-Weather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

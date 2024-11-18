@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git_repo\\WebApi-Weather\\WebApi-Weather\\WebApi-Weather.csproj",
+      "projectUniqueName": "C:\\Git_repo\\CI-CD\\WebApi-Weather\\WebApi-Weather.csproj",
       "projectName": "WebApi-Weather",
-      "projectPath": "C:\\Git_repo\\WebApi-Weather\\WebApi-Weather\\WebApi-Weather.csproj",
+      "projectPath": "C:\\Git_repo\\CI-CD\\WebApi-Weather\\WebApi-Weather.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Git_repo\\WebApi-Weather\\WebApi-Weather\\obj\\",
+      "outputPath": "C:\\Git_repo\\CI-CD\\WebApi-Weather\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
